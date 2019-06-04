@@ -1,0 +1,15 @@
+node_modules
+/.expo
+.DS_Store
+**/.DS_Store
+.idea
+package-lock.json
+yarn.lock
+
+#awsmobilejs
+appsync-info.json
+aws-info.json
+project-info.json
+awsmobilejs/.awsmobile/backend-build
+awsmobilejs/\#current-backend-info
+~awsmobilejs-*/

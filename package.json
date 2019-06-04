@@ -1,0 +1,15 @@
+{
+  "name": "mma2-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "json-server --watch locations.json --port 5000"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1"
+  }
+}
